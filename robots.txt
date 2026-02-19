@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhaiyandcompanylearning.github.io/Retail-Insight-Daily/sitemap.xml
